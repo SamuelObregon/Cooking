@@ -10,10 +10,17 @@
     float: right;
 }
 #div1 {
-    width:350px;
-    height:200px;
+    width:300px;
+    height:230px;
     padding:10px;
     position: absolute;
     bottom: 40%;
     left: 40%;
     border:1px solid #aaaaaa;} 
+html {
+    background: url("http://img00.deviantart.net/c499/i/2015/273/e/a/kitchen_6__background__by_dr_friki-d9bgp0n.jpg") no-repeat fixed center;
+    background-size: contain;
+}
+#board {
+    margin-right: 100px;
+}

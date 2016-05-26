@@ -1,0 +1,70 @@
+.button{
+	width: 50%; 
+	height: 250px;
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 810%; 
+	font-weight: bold;
+    background-color: green;
+    -moz-border-radius: 500px/ 250px;
+    border-radius: 500px/ 250px;
+    margin-bottom: 3%;
+}
+
+#customize{
+	width: 50%; 
+	height: 250px;
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 450%; 
+	font-family: 'Indie Flower';
+	font-weight: bold;
+    background-color: cyan;
+    border-radius: 1em 1em 1em 1em;
+    margin-bottom: 3%;
+    line-height: 120%;
+}
+
+#help{
+	width: 50%; 
+	height: 150px;
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 450%; 
+	font-family: 'Indie Flower';
+	font-weight: bold;
+    background-color: orange;
+    border-radius: 1em 1em 1em 1em;
+    margin-bottom: 3%;
+}
+
+#credits{
+	width: 50%; 
+	height: 150px;
+    border-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 450%; 
+	font-family: 'Indie Flower';
+	font-weight: bold;
+    background-color: gray;
+    border-radius: 1em 1em 1em 1em;
+    margin-bottom: 5%;
+}
+
+
+.buttons{
+	margin: 0 auto;
+	text-align: center;
+}
